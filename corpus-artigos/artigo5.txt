@@ -1,0 +1,344 @@
+FUNDAÇÃO DE ENSINO "EURÍPIDES SOARES DA ROCHA" CENTRO UNIVERSITÁRIO EURÍPIDES DE MARÍLIA ­ UNIVEM
+CURSO DE ENGENHARIA DE PRODUÇÃO
+ISABELA BERNARDO LOPES
+PROPOSTA DE MELHORIA DO PRODUTO / PROCESSO DE UMA DISTRIBUIDORA DE VIDROS BASEADO NA METODOLOGIA QFD
+MARÍLIA 2016
+
+ISABELA BERNARDO LOPES
+PROPOSTA DE MELHORIA DO PRODUTO / PROCESSO DE UMA DISTRIBUIDORA DE VIDROS BASEADO NA METODOLOGIA QFD
+Plano de Trabalho apresentado ao Curso de Engenharia de Produção da Fundação de Ensino "Eurípides Soares da Rocha", mantenedora do Centro Universitário Eurípides de Marília ­ UNIVEM, como requisito parcial para obtenção do grau de Bacharel em Engenharia de Produção. Orientador: Prof. Flávio José dos Santos
+MARÍLIA 2016
+
+Lopes, Isabela Bernardo Proposta de Melhoria do Produto/Processo de uma Distribuidora de Vidros baseado na Metodologia QFD/ Isabela Bernardo Lopes; orientador: Prof. Flávio José dos Santos. Marília, SP, 2016. 47 f. Trabalho de Curso (Graduação em Engenharia de Produção) ­ Curso de Engenharia de Produção, Fundação de Ensino "Eurípides Soares da Rocha", mantenedora do Centro Universitário Eurípides de Marília ­ UNIVEM, Marília, 2016. CDD: 658.56
+
+A Deus por me conceder o dom da vida, guiando e abençoando meus passos que apesar das dificuldades nos proporciona a vitória no seu tempo.
+
+AGRADECIMENTOS
+Agradeço a minha família e namorado por me dar suporte durante esta etapa, me incentivando e dando força para sempre seguir em frente, à toda família UNIVEM que me auxiliou em momentos de dificuldade me mostrando opções para que fosse possível seguir no curso, em todos os momentos em que precisei de algum tipo de ajuda sempre me atenderam.
+Aos professores do curso que procuram dar o seu melhor nos preparando para o mercado de trabalho, aos amigos de sala que fizeram parte desta caminhada um auxiliando o outro para a conclusão desta etapa.
+Agradeço em especial o meu orientador o Prof. Flávio José dos Santos que foi essencial para a realização deste trabalho me passando todas as coordenadas, deixando tudo bem claro durante o desenvolvimento sempre apto a me ajudar no que fosse necessário.
+A distribuidora de vidros que permitiu a realização do trabalho de curso na mesma, fornecendo o necessário para a realização deste trabalho.
+
+LOPES, Isabela Bernardo. Proposta de Melhoria do Produto/Processo de uma Distribuidora de Vidros baseado na Metodologia QFD. 2016. 47 f. Trabalho de Curso (Bacharelado em Engenharia de Produção) ­ Centro Universitário Eurípides de Marília, Fundação de Ensino "Eurípides Soares da Rocha", Marília, 2016.
+RESUMO
+A empresa onde foi desenvolvido o estudo de caso é uma pequena Distribuidora de Vidros, onde são fabricados peças de vidro temperado. Este trabalho tem como objetivo aplicar o conceito do método QFD para detectar através das exigências de seus clientes possíveis falhas presentes na empresa, para que assim a mesma possa rever seus conceitos e a forma com que está realizando os seus processos, buscando melhorias para satisfazer as necessidades de seus clientes e atrair novos. Para o levantamento de dados foram realizadas entrevistas com os clientes para saber quais eram os seus desejos em relação ao produto oferecido pela empresa. A metodologia desenvolvida para a pesquisa é experimental de campo exploratório, com característica de pesquisa ­ ação, através dos resultados do questionário desenvolvido de acordo com as exigências dos clientes, foi possível identificar em quais requisitos a empresa necessita de melhorias para assim atingir a satisfação do seu público ­ alvo, aumentando sua carteira de clientes.
+Palavras-chave: QFD, Qualidade, Requisitos dos Clientes.
+
+LOPES, Isabela Bernardo. Proposal for Improvement of the Product / Process of a Glass Distributor based on the QFD Methodology. 2016. 47 f. Term paper (Bachelor of Production Engineering) ­ Centro Universitário Eurípides de Marília, Fundação de Ensino "Eurípides Soares da Rocha", Marília, 2016.
+ABSTRACT
+The company where the case study was developed is a small glass distributor, where tempered glass parts are manufactured. This work aims to apply the concept of the QFD method to detect through the demands of its customers possible flaws present in the company, so that it can revise its concepts and the way in which it is carrying out its processes, seeking improvements to satisfy the Needs of its customers and attract new ones. For the data collection, interviews were conducted with the clients to know what their wishes were in relation to the product offered by the company.
+The methodology developed for the research is experimental exploratory field, with characteristic of research - action, through the results of the questionnaires developed according to the requirements of the clients, it was possible to identify in which requirements the company needs improvements in order to reach the satisfaction of the Its target audience, increasing its customer base.
+Keywords: QFD, Quality, Customer Requerements.
+
+LISTA DE ILUSTRAÇÕES
+Figura 1 ­ QFD das Quatro Fases ............................................................................................ 19 Figura 2 ­ QFD Estendido........................................................................................................20 Figura 3 ­ QFD das Quatro Ênfases ......................................................................................... 21 Figura 4 ­ Tabelas que Formam a Casa da Qualidade ............................................................. 22 Figura 5 ­ Cruzamentos das tabelas Requisitos dos Clientes x Características de Qualidade . 23 Figura 6 - Representação do sistema da casa da qualidade. ..................................................... 24 Figura 7 ­ Fluxograma Produção ............................................................................................. 32 Figura 8 ­ Projeto do Cliente....................................................................................................34 Figura 9 ­ Projeto após Análise................................................................................................35 Figura 10 ­ Vidros Especiais....................................................................................................42 Figura 11 ­ Espuma para proteção ........................................................................................... 44 Figura 12 ­ Cantoneiras de papelão para proteção...................................................................44
+
+LISTA DE TABELAS
+Tabela 1 - Características ........................................................................................... 36 Tabela 2 ­ Principais Características dos Clientes ..................................................... 37 Tabela 3 ­ Principais Características dos Clientes ­ Final.........................................39
+
+LISTA DE GRÁFICOS
+Gráfico 1 ­ Clientes x Pedidos por Ano.....................................................................41
+
+LISTA DE ABREVIATURAS E SIGLAS
+QFD ­ (Quality Function Deployment) ­ Desdobramento da Função Qualidade. APPCC ­ Sistema de Análise de Perigos e Pontos Críticos de Controle.
+
+SUMÁRIO
+1 INTRODUÇÃO.....................................................................................................................14 1.1 Delimitação do Tema.......................................................................................................... 14 1.2 Objetivo .............................................................................................................................. 15 1.3 Objetivos Específicos ......................................................................................................... 15 1.4 Justificativa.........................................................................................................................15 1.5 Metodologia........................................................................................................................15
+2 REVISÃO TEÓRICA ........................................................................................................... 17 2.1 O método QFD ................................................................................................................... 17 2.2 Tipos de QFD ..................................................................................................................... 18 2.2.1 QFD das Quatro Fases ..................................................................................................... 18 2.2.2 QFD Estendido ................................................................................................................ 19 2.2.3 QFD de Quatro Ênfases ................................................................................................... 20 2.3 Casa da Qualidade .............................................................................................................. 21 2.3.1 Tabela Qualidade Exigida do Cliente (horizontal) .......................................................... 24 2.4 Tabela Características da Qualidade (vertical) ................................................................... 25 2.5 Revisão Bibliográfica sobre QFD em pequenas empresas ................................................. 26 2.5.1 QFD Aplicado em uma Panificadora .............................................................................. 27 2.5.2 QFD Aplicado no desenvolvimento de um software....................................................... 28 2.5.3 Utilização do QFD no Sistema de Análise de pontos críticos de controle (APPCC) na produção de refeições ............................................................................................................... 29
+3 ESTUDO DE CASO ............................................................................................................. 31 3.1 Definição do produto piloto para aplicação do método QFD.............................................31 3.2 Entrevista com os clientes para elaboração do questionário .............................................. 35
+4 RESULTADOS ..................................................................................................................... 38 4.1 Entrevista com os clientes para aplicação do questionário................................................. 38 4.2 Voz do Cliente x Voz do Processo ..................................................................................... 39 4.3 Elaboração de Planos de Ação para a Empresa .................................................................. 40
+5 CONCLUSÃO.......................................................................................................................46
+
+REFERÊNCIAS ...................................................................................................................... 47
+
+14
+1 INTRODUÇÃO
+O QFD ­ (Quality Function Deployment ­ Desdobramento da Função Qualidade) é um método que tem como objetivo traduzir as necessidades e desejos dos clientes, onde a empresa após aplicado este método deve reconhecer suas falhas e redefinir de forma adequada todos os ciclos dentro da empresa, desde o planejamento de um processo até a venda do produto final, para que assim possa satisfazer seus clientes.
+Para que uma empresa se desenvolva positivamente é necessário que satisfaça as necessidades do mercado, satisfazendo seus clientes e dando suporte funcional para eventuais problemas.
+A empresa onde foi desenvolvido o estudo de caso é uma Distribuidora de Vidros de pequeno porte, onde o mesmo adquiri sua matéria ­ prima principal, que são as chapas de vidro comum, sua produção é feita por demanda, ou seja, empresa produz de acordo com a entrada de pedidos dos clientes, os tipos de produtos fabricados são peças de vidro temperado, como portas, janelas, tampos de mesa, box entre outros produtos.
+O estudo de caso tem como objetivo aplicar o conceito do método QFD para detectar as possíveis falhas presentes na empresa, para que assim a mesma possa rever seus conceitos e a forma com que está realizando os seus processos, atendendo as expectativas dos seus clientes e consequentemente atraindo novos.
+1.1 Delimitação do Tema
+O QFD teve início no Japão no final dos anos 60 e ainda é utilizado por metade das grandes empresas (Ghiya et aI.,1999). No início dos anos 80 a indústria automotiva americana adotou este método e atualmente é usado por muitas empresas do setor.
+Segundo Gustafsson & Johnson, 1997, a ferramenta QFD auxilia as empresas a superarem o grande desafio existente entre a satisfação do cliente e o desenvolvimento de qualidade nos seus produtos e processos. Auxiliando as empresas a exercerem a competitividade, considerando as demandas do cliente com o desenvolvimento do produto.
+Neste estudo de caso foi aplicado o conceito do método QFD em uma pequena Distribuidora de Vidros para o desenvolvimento de seus processos internos visando atender as expectativas de seus clientes, conquistando novos, se destacando no mercado. O QFD é um método muito amplo, pois, segundo King (1987) é uma ferramenta que aplicada corretamente pode conduzir uma implantação bem sucedida de um novo produto ou processo, integrando
+
+15
+todos os departamentos: Marketing, pesquisa e desenvolvimento, produção, controle de qualidade, vendas e serviços.
+1.2 Objetivo
+O objetivo desse trabalho é aplicar o conceito do método QFD através de questionários objetivos e elaborar tabelas, coletando as opiniões dos clientes para que a empresa após a apresentação dos dados coletados tome medidas cabíveis para solucionar as possíveis falhas presentes nos seus processos ou os conceitos adotados pela a administração do mesmo.
+1.3 Objetivos Específicos
+Os objetivos específicos deste trabalho são:
+ Realizar uma pesquisa junto aos clientes para levantamento dos requisitos;  Realizar uma comparação com os principais concorrentes;  Avaliar a importância de cada requisito;  Definir ações de melhoria para processos e produtos.
+1.4 Justificativa
+Nota-se que no período de dois anos a quantidade de clientes da distribuidora de vidros reduziu, consequentemente suas vendas estão em baixa. Com o desenvolvimento do estudo de caso será possível detectar quais são os problemas que estão afetando a empresa e buscar formas de solucioná-los. Para que assim a mesma aumente sua carteira de clientes e faturamento, podendo investir em melhorias e valorizar de acordo com o seu crescimento seus colaboradores.
+1.5 Metodologia
+A pesquisa é caracterizada como experimental de campo exploratório, com característica de pesquisa-ação.
+Pesquisa ­ ação estabelece o sentido da relação entre o conhecimento e ação para o alcance do objetivo proposto entre todos os envolvidos, segundo Michel Thiollent pesquisa ­ ação é uma ampla e explícita interação entre os pesquisadores e envolvidos tendo como objetivo o aumento do conhecimento dos pesquisadores e o conhecimento ou nível de consciência das
+
+16
+pessoas e grupos que participarem do processo, contribuindo para a discussão ou fazer avançar o debate acerca das questões abordadas. (1985)
+Para Kemmis e McTaggart (1988), realizar uma pesquisa-ação significa observar, planejar, refletir e agir de maneira consciente, rigorosa e sistemática em nossas atividades diárias.
+Para o desenvolvimento deste trabalho foram realizadas as seguintes etapas:
+ Revisão bibliográfica sobre QFD;  Revisão bibliográfica sobre QFD nas pequenas empresas;  Definição de um produto piloto para aplicação do QFD;  Entrevista com os clientes para elaboração do questionário;  Entrevista com os clientes para aplicação do questionário;  Elaboração de planos de ação para a empresa;  Conclusão.
+
+17
+2 REVISÃO TEÓRICA
+Neste capítulo será apresentado a origem, objetivo e desenvolvimento do método QFD (Desdobramento da Função Qualidade), uma panificadora, empresa de softwares e uma empresa que realiza produção de refeições que utilizaram o método foram apresentadas como modelo, demonstrando que o mesmo pode ser aplicado em empresas de grande à pequeno porte de segmentos distintos.
+2.1 O método QFD
+O método QFD foi elaborado pelos professores Akão e Mizuno, após o surgimento do método o professor Akão junto com outros importantes autores japoneses com o foco em gestão da qualidade total e QFD acrescentaram outros vários elementos conceituais e metodológicos, gerando um amplo modelo de QFD (Akao, 1990).
+Vem sendo realizado no Brasil diversas adaptações e aplicações do método (CAUCHICK MIGUEL; CARPINETTI, 2009). O método QFD vem sendo utilizado dentro das indústrias para melhor atender os seus clientes garantindo produtos e serviços de qualidade, satisfazendo suas necessidades, não bastando oferecer somente produtos de acordo com as especificações dos clientes, os integrantes da empresa devem ser orientados na maneira correta de agir, desde o atendimento de um telefonema até a entrega do produto/serviço final.
+Segundo Cheng, 2003, o método é utilizado para se moldar uma estrutura, permitindo a visualização sobre os desafios em questão, onde os profissionais irão debater, baseado em suas experiências e conhecimentos, a melhor forma para a aplicação da resolução do problema. Para que seja possível aplicar o método é preciso que profissionais de diferentes formações trabalhem em equipe para a elaboração de um plano estratégico, que seja repassado a todos os colaboradores, visando o dever de cada departamento e o que a empresa espera de cada um, atingindo os valores, missão e objetivos definidos pela empresa, que normalmente tem como principal objetivo a maximização do valor do produto, aumento do nível de satisfação do cliente e preços competitivos.
+O método está sendo utilizado em diferentes aplicações como: desenvolvimento de novos produtos; re-projeto de produtos existentes; preparação para produção; auxílio no gerenciamento da rotina do dia-a-dia, melhoria do controle, na escolha de equipamentos, tecnologias durante o desenvolvimento de produtos, dentre outros (CHENG; MELO FILHO, 2007). O bom funcionamento de uma empresa necessita de um plano estratégico eficiente, bom
+
+18
+relacionamento com os colaboradores, fornecedores, entregas no prazo determinado, bom gerenciamento de toda equipe, desta forma satisfazer os clientes desde o primeiro contato com a empresa, até o fornecimento do produto ou serviço será uma consequência de todo o trabalho realizado anteriormente pelo método QFD. Ouvir os clientes é um processo essencial para se obter o conhecimento dos seus desejos e expectativas sobre o produto ou serviço, o QFD auxilia no desenvolvimento da linguagem utilizada para a garantia na qualidade dos processos, produtos e serviços.
+Abaixo será apresentado alguns benefícios adquiridos com a implantação do método QFD em uma empresa:
+ Melhoria Contínua na Qualidade,  Aumento da utilidade e do valor agregado dos produtos e serviços;  Redução no tempo de desenvolvimento;  Redução dos custos de projetos e fabricação;  Melhor compreensão das necessidades dos clientes obtendo melhor qualidade
+dos bens/serviços;  Melhoria organizacional;  Redução dos problemas de fabricação;
+2.2 Tipos de QFD
+Os tipos de QFD se classificam em três fases, onde cada fase passa por evoluções resultando no aprimoramento do método.
+2.2.1 QFD das Quatro Fases
+Criado por Makabe, esta primeira versão existente do QFD é defendia por uma rígida sequência do desdobramento da qualidade, como, planejamento do produto, componentes, planejamento do processo e da produção (CLAUSING, 1993). Conforme mostra a figura 1 ­ QFD das Quatro fases.
+
+19 Figura 1 ­ QFD das Quatro Fases
+
+2.2.2 QFD Estendido
+
+Fonte: Cheng e Filho (2010).
+
+Clausing (1993) o QFD estendido é a evolução das quatro fases, que propõe ao processo de desenvolvimento de produto uma aplicação integrada do QFD no desenvolvimento de produto, as matrizes representavam o desdobramento das características de qualidade de sistemas, subsistemas, componentes e processos, conforme representado na figura 2 ­ QFD Estendido.
+
+20 Figura 2 ­ QFD Estendido
+Fonte: Adaptado de UDESC Joinville ­ QFD (2011). 2.2.3 QFD de Quatro Ênfases
+Nesta versão se acrescentou ao conceito de qualidade total a importância de se considerar a qualidade durante o desenvolvimento dos produtos, na casa da qualidade transforma-se os requisitos dos clientes em especificações do produto, no planejamento dos componentes as especificações do produto são transformados em requisitos para componentes do produto, no planejamento do processo os requisitos para componentes do produto são transformados em requisitos para os parâmetros do processo, que são transformados nos
+
+21 requisitos dos padrões de operação do processo, onde todas as etapas são baseadas nas necessidades dos clientes (KING, 1989), segue baixo o modelo representado pela figura 3 ­ QFD de Quatro Ênfases.
+Figura 3 ­ QFD das Quatro Ênfases
+Fonte: Adaptado de UDESC Joinville ­ QFD (2011).
+2.3 Casa da Qualidade
+A casa da qualidade tem como finalidade realizar o projeto de qualidade final podendo ser definida como matriz, determinando as verdadeiras exigências de qualidade dos clientes por meio de expressões linguísticas, transformando em características substitutas, mostrando a junção entre essas características (características de qualidade) e as qualidades verdadeiras. A casa da qualidade é constituída de duas tabelas principais que são as tabelas de requisitos dos clientes e a tabela das características de qualidade, representado pela figura 4 ­ Tabelas que formam a Casa da Qualidade (PEREIRA, 2004).
+
+22 Figura 4 ­ Tabelas que Formam a Casa da Qualidade
+
+Tabela Requisitos dos Clientes
+
+Tabela Características da qualidade
+
+Fonte: Adaptado de CHENG, (1995).
+Será apresentado a junção das duas tabela demonstradas na figura 4, onde o triângulo A e a aba C representam a tabela requisitos dos clientes. O triângulo B e aba D representam a tabela características de qualidade, o quadrado Q representa a interseção das duas tabelas, denominado como Matriz de Relações. Segue figura 5 ­ Cruzamentos das tabelas Requisitos dos Clientes x Características de Qualidade (PEREIRA, 2004).
+
+23 Figura 5 ­ Cruzamentos das tabelas Requisitos dos Clientes x Características de Qualidade
+
+B
+
+A
+
+Q
+
+C
+
+D
+
+Fonte: Adaptado de CHENG, (1995).
+A casa da qualidade é como um sistema, onde: a entrada representa a voz do cliente em expressões linguísticas, este processo é um conjunto de três atividades: a organização das qualidades verdadeiras das exigências dos clientes, a modificação destas qualidades em características da qualidade que são as características técnicas ou substitutas, e o reconhecimento das relações entre as qualidades verdadeiras e as características de qualidade. A saída representa as especificações do produto que consiste no conjunto de características técnicas do produto e suas qualidades projetadas, ou seja, os valores de especificações. Entendese que a tabela de qualidade exigida do cliente (horizontal) é a entrada da casa da qualidade, e a saída é representada pela tabela das características de qualidade (vertical). Apresentado pela figura 6 - Representação do sistema da casa da qualidade (PEREIRA, 2004).
+
+24
+Figura 6 - Representação do sistema da casa da qualidade.
+Fonte: PEREIRA, (2004). 2.3.1 Tabela Qualidade Exigida do Cliente (horizontal)
+Pereira (2004) esta tabela representa a voz do cliente que é introduzida no desenvolvimento do produto, sendo também a tabela que planeja como o produto irá atender a voz do cliente. Segue abaixo as fases que constituem esta tabela:
+Fase 1 ­ Ouvindo o Cliente:  Requisitos dos clientes ­ são as expressões linguísticas dos clientes convertidas em necessidades reais, esses requisitos são organizados em níveis hierárquicos, através do diagrama de árvore onde é feito o diagrama de afinidades e colocados em uma tabela. São obtidos através de pesquisas de mercado e publicações técnicas.  Identificação do grau de importância ­ é o grau de importância que os clientes dão para cada requisito, sendo obtido diariamente com os clientes onde atribuem uma nota para cada requisito, as notas podem ser relativa ou absoluta obedecendo uma escala numérica. A escala relativa indica a importância de cada requisito comparado com outros. A escala absoluta faz a análise da influência de cada requisito na decisão de compra sem compara ­ lós com os demais.  Avaliação competitiva do cliente ­ é a pesquisa de mercado que tem como objetivo identificar a forma que os clientes enxergam os produtos da empresa em relação com os principais concorrentes.
+
+25
+Fase 2 ­ Análise da Empresa:  Plano de qualidade dos requisitos ­ para cada requisito dos clientes são feitos o planejamento do desempenho do produto. Para facilitar a tomada de decisões, usa-se o grau de importância dos requisitos e a avaliação competitiva dos clientes.  Índice de melhorias ­ é o plano estratégico da empresa, este índice é determinado pelo "Plano de Qualidade" (Divisão do desempenho do produto em desenvolvimento), "Nossa Empresa" (Notas obtidas pelo desempenho efetivo do produto atual). Mostrando quantas vezes é preciso melhorar o desempenho do produto, em comparação ao produto atual, para obter a situação planejada.  Argumento de vendas ­ São os benefícios que o produto irá fornecer ao cliente visando atender suas necessidades. Interpreta ­ se que os argumentos de vendas especiais tem peso 1,5, são as qualidades excitantes. Os argumentos de vendas comuns tem peso 1,2, são as qualidades lineares mais valorizados pelos clientes onde o seu desempenho deverá ser maior que o dos concorrentes.  Peso absoluto dos requisitos ­ é obtido pela multiplicação do grau de importância pelo índice de melhoria e pelo argumento de vendas. Representando o atendimento da prioridade de casa requisito, onde as melhorias devem focar em três pontos ­ requisitos mais importantes, requisitos que apresentam conciliação com a estratégia da empresa e os requisitos em que a empresa necessita de bastante melhorias.  Peso relativo dos requisitos ­ é obtido pela conversão do peso absoluto em porcentagem, através da divisão do peso absoluto de cada requisito pelo resultado da soma de todos os pesos absolutos, tendo por objetivo proporcionar rápida percepção da importância relativa dos requisitos.
+2.4 Tabela Características da Qualidade (vertical)
+De acordo com a definição de AKAO, 1990, esta tabela é um arranjo físico, que se baseia em um diagrama de árvore lógico das características de qualidade que constituem o produto ou serviço. Portanto esta tabela tem como objetivo transformar os requisitos dos clientes nas características de projeto para compor um hardware e estabelecer a qualidade projetada. (PEREIRA, 2004).
+
+26
+A tabela características da qualidade é composta pelos elementos abaixo:  Característica de qualidade ­ onde a voz do cliente é transformada em características de qualidade, que são as características técnicas para o produto final. Após obter as características as mesmas devem ser organizadas no formato do diagrama em árvore, para que isto ocorra deve-se utilizar o diagrama de utilidades.  Matriz de correlações ­ esta matriz é a intersecção da tabela requisitos dos clientes com a tabela características da qualidade, tendo como função identificar quanto e como cada característica da qualidade influência no atendimento de cada requisito. A intensidade das relações são realizadas em quatro níveis: forte, média, fraca e inexistente. Essas relações devem ser especificadas na parte superior das células. A matriz de relações deve ser preenchida por todos os membros da equipe de QFD, cada nível da intensidade das relações corresponde a um valor que são utilizados para distribuir os pesos dos requisitos dos clientes para as características de qualidade, por fim é preciso verificar sua consistência.  Peso absoluto ­ representa o resultado da soma vertical dos valores da parte inferior das células de cada característica de qualidade, indicando a importância no atendimento do conjunto de requisitos do clientes.  Peso relativo ­ transforma o peso absoluto das características da qualidade em percentual. Sendo calculada da seguinte maneira: divide-se o peso absoluto de cada característica de qualidade pelo resultado da soma dos pesos absolutos de todas as características de qualidade.
+2.5 Revisão Bibliográfica sobre QFD em pequenas empresas
+O método QFD pode ser aplicado em todas as empresas independente de seu ramo de atividade ou o tamanho de suas organizações. As empresas devem buscar formas de se inovar para que assim possam se destacar de forma positiva dos demais concorrentes e se manter firme neste amplo mercado.
+Serão apresentadas três empresas que utilizaram o QFD descrevendo como o método foi utilizado e seus resultados.
+
+27
+2.5.1 QFD Aplicado em uma Panificadora
+A Panificadora é situada no estado de Minas Gerais, o QFD foi utilizado para à melhoria do processo de fabricação de parte de seus produtos através de um novo equipamento para panificação. A empresa conta com noventa colaboradores produzindo diversos tipos de pães e confeitados, atendendo clientes que compram no próprio estabelecimento, aceitando encomendas de maior quantidade e atendem empresas de diversos tipos, entre essas empresas duas se destacam pois consomem um grande volume de produtos diariamente, representando uma parcela considerável da produção diária da panificadora, onde a mesma deve manter seu padrão de qualidade e o cumprimento dos prazos estabelecidos por seus clientes. (COSTA, 2015).
+Para a fabricação dos pães são utilizadas máquinas, como, cilindros, masseiras, modeladoras e fatiadoras. Para a produção de confeitados utiliza-se liquidificadores industriais e sua montagem é realizada de por métodos manuais, onde grandes encomendas exigem um tempo considerável para sua produção. Para se ter uma base, uma encomenda de 300 bolinhos confeitados consome aproximadamente três horas. (COSTA, 2015).
+O QFD foi aplicado para a melhoria da produção de produtos onde parte de sua montagem são feitas manualmente, onde foi definido o desenvolvimento de um novo equipamento, prezando pela qualidade de seus produtos e a redução do tempo de fabricação dos mesmos. Para o desenvolvimento deste novo equipamento foi necessário o levantamento de dados de todos os envolvidos, sendo, o cliente interno que são os colaboradores que irão manusear o novo equipamento, a empresa que será responsável pela aquisição do equipamento e os clientes finais que irão adquirir os produtos fabricados por este novo equipamento (COSTA, 2015). Segue uma breve descrição das informações obtidas:
+1. Cliente Interno (Colaboradores) - apresentaram a necessidade da redução de peso carregado, melhor posição durante o processo de produção, um equipamento de fácil manuseio e limpeza e aumento da agilidade do processo a ser realizado.
+2. A empresa (Investidores) ­ suas necessidades envolvem o custo para aquisição e manutenção do mesmo, onde o equipamento necessite de pouca manutenção e o tempo de realização seja curto, sendo indispensável o aumento da produtividade.
+
+28
+3. Cliente Final (Consumidores) ­ As necessidades estão relacionadas com o cumprimento dos prazos, quantidades acordadas e com qualidade, onde os produtos devem ser sempre saborosos.
+Após o levantamento realizado acima foi elaborado a matriz do QFD realizando o comparativo entre as exigências das partes interessadas para que assim fosse desenvolvido o novo equipamento que melhor atendesse as necessidades encontradas, sendo assim foi realizado um projeto técnico e o protótipo funcional para que pudessem realizar os testes do novo equipamento (COSTA, 2015).
+2.5.2 QFD Aplicado no desenvolvimento de um software
+O QFD foi aplicado em uma pequena empresa de softwares, onde sua principal atividade é desenvolver sistemas personalizados de acordo com a necessidade de seus clientes, neste estudo de caso o QFD foi utilizado como uma ferramenta para se desenvolver um software de custos para melhor atender as necessidades dos clientes podendo também disponibilizar aos mesmos indicadores para o controle do processo de desenvolvimento do produto (SONDA; RIBEIRO; ECHEVESTE, 2002). A empresa é situada na cidade de Caxias do Sul ­ RS, onde sua principal fonte de renda provém da venda de horas técnicas, que são prestadas aos seus clientes, o planejamento de médio prazo da empresa será desenvolver um sistema de gerenciamento de custos avançado para suprir as novas necessidades de seus clientes. Neste ramo de atividade as pessoas possuem grande importância pois necessitam de atendimento rápido, com o produto correto sendo um dos seus principais objetivos gerar lucro, organizar e padronizar os processos da empresa, por este motivo é essencial a satisfação do cliente para manter a empresa no mercado. (SONDA; RIBEIRO; ECHEVESTE, 2002).
+Para a aplicação do QFD foi realizado a pesquisa de mercado que buscou identificar qual a situação do mercado em relação aos concorrentes, possíveis entrantes e consumidores, sabendo aproveitar as oportunidades. Também foi realizada uma pesquisa interna a fim de identificar as reais necessidades dos clientes, esta pesquisa foi realizada com questionários aplicados aos clientes já existentes e em potencial. Através dos questionários aplicados foram desenvolvidos algumas matrizes como, matriz da qualidade relatando as atividades envolvidas nos processos de implantação no sistema, como por exemplo, tempo de aprendizado, número de atendimento ao usuário, quantidade de hora de treinamento. (SONDA; RIBEIRO; ECHEVESTE, 2002).
+
+29
+Matriz de características das partes ­ o relacionamento entre as partes (clientes) em relação às características de qualidade (matriz da qualidade), como por exemplo, tempo de resposta é o tempo entre o início de um comando até o seu fim, portanto é o tempo que o sistema instalado leva para realizar uma tarefa.
+Matriz de processos ­ Analisa e incorpora os processos de fabricação para o desenvolver o software com os processos de prestação de serviços.
+Matriz de custos ­ realiza a avaliação dos custos envolvidos com o desenvolvimento e manutenção do software.
+Por fim foi elaborado o plano de melhoria da qualidade, que através dos resultados coletados das matrizes, foi possível determinar os procedimentos a serem adotados e melhorados para o desenvolvimento do software de custo padrão, onde um único software possa ser aplicado em grande parte de seus clientes, exigindo o mínimo possível de reprogramação, obtendo o maior controle do processo durante o desenvolvimento, manutenção e apoio ao usuário (SONDA; RIBEIRO; ECHEVESTE, 2002).
+2.5.3 Utilização do QFD no Sistema de Análise de pontos críticos de controle (APPCC) na produção de refeições
+O Sistema de Análise de Perigos e Pontos Críticos de Controle (APPCC) é utilizado em indústrias de alimentos e serviços que fornecem alimentação, o sistema realiza o levantamento dos perigos que podem ocorrer durante a produção de um alimento, são classificados como biológicos, químicos e físicos (SILVA; GONÇALVES, 2006). Neste sistema o controle é realizado durante todo o processo de produção e não apenas na análise do produto final, tendo como objetivo evitar a ocorrência de riscos à saúde humana. O sistema apresenta vantagens como: maior segurança para o consumidor, prevenção na cadeia de produção, segurança, qualidade, redução de custos, cumprimento das exigências dos mercados internacionais e à legislação brasileira. O método QFD foi utilizado no sistema APPCC para o levantamento dos perigos potenciais de contaminação no processo de produção de refeições (SILVA; GONÇALVES, 2006). O Levantamento dos requisitos foi realizado da seguinte maneira:
+ Coleta ­ foi realizado a coleta de dados junto aos clientes para identificar suas necessidades e desejos.
+
+30
+ Processamento ­ As informações coletadas foram processadas e organizadas, para o melhor compreensão dos mesmos, onde essas informações foram usadas como ponto de partida para aperfeiçoas as decisões a serem tomadas.
+ Disposição ­ Os dados coletados foram dispostos para uma melhor compreensão, permitindo que a equipe envolvida discutissem os vários pontos de vista, para o desenvolvimento da matriz da qualidade.
+Após a realização das etapas acima foi desenvolvido a Matriz de Perigos de Contaminação e o Processo Genérico de Produção de Refeições, para estabelecer os perigos potenciais foi utilizado: Severidade X Detecção. Esta matriz relaciona os perigos potenciais com as etapas de processo genérico de produção de refeições. (SILVA; GONÇALVES, 2006).
+Com os resultados obtidos na matriz foi possível verificar as fases da produção de refeições que exigem maior atenção dos colaboradores, contribuindo também no processo seletivo e treinamento adequado para a capacitação dos mesmos (SILVA; GONÇALVES, 2006).
+
+31
+3 ESTUDO DE CASO
+3.1 Definição do produto piloto para aplicação do método QFD
+Atualmente a distribuidora de vidros trabalha com três frentes de produtos, sendo, peças de vidros comum e temperada, ferragens / acessórios e barras de alumínio.
+Os produtos como as ferragens / acessórios e barras de alumínio a empresa realiza a revenda dos mesmos, onde cada produto é adquirido de fornecedores, sendo assim a empresa é responsável por receber e verificar se o produto está em perfeito estado e quantidade correta. Em casos de defeitos ou falta de materiais o fornecedor é contatado para a solução do problema. Como os produtos mencionados não são fabricados na empresa, foi definido que o produto piloto para aplicação do método QFD são as peças de vidros, será apresentado e explicado como é realizado o processo da fabricação da Distribuidora de vidros.
+A distribuidora produz conforme a demanda de seus clientes, seguindo as seguintes etapas apresentado na Figura 7 ­ Fluxograma da Produção.
+
+32 Figura 7 ­ Fluxograma Produção
+Fonte: O autor (2016). Para o melhor entendimento da figura 7, segue a explicação cada etapa da produção: Recebimento dos pedidos (Projetos) ­ Clientes enviam os pedidos para empresa pessoalmente ou via e-mail. Análise / Aprovação dos projetos ­ Realização da folga dos projetos para se obter a medida correta da peça, são anotados os códigos e as medidas de cada ferragem. Efetuação dos pedidos ­ Cadastro dos pedidos no sistema, gerando o financeiro. Impressão das etiquetas de identificação - Impressão de etiquetas de acordo com as medidas de cada peça do pedido.
+
+33
+Lançamento das peças no Plano de Corte ­ O sistema Plano de Corte realiza a montagem das peças na medida da chapa de vidro, obtendo o melhor aproveitamento do mesmo, minimizando o desperdício.
+Plano de Corte enviado para produção ­ As etiquetas são separadas junto com os planos de corte e enviado para produção.
+Corte das peças de acordo com o Plano de Corte ­ As peças são cortadas manualmente e recebem a etiqueta de identificação.
+Lapidação das peças ­ Lapidação da peça realizado por uma máquina lapidadora. Marcação das ferragens de acordo com o projeto ­ Realizado manualmente a marcação nas peças como, as furações das fechaduras, roldanas, puxadores entre outros, são usados gabaritos das ferragens para marcação das peças. Processo de furação ­ Furação da peça de acordo com a marcação que está na mesma. Processo de lavagem ­ Lavagem das peças na máquina lavadora. Carregamento do Caminhão ­ As peças são carregadas no caminhão onde são transportadas para o fornecedor que realiza o processo de tempera. Após este processo as peças são transportadas de volta para empresa e entregue aos clientes. Como pode - se perceber acima, a empresa fabrica de acordo com os pedidos que são recebidos, por este motivo não são fabricados uma linha de produtos. Alguns dos produtos de mais saída são: portas, janelas, box, tampos, quadros fixos. A empresa atende Marília e região, as principais cidades da região são: Garça, Pompéia, Assis, Lins, Ourinhos, São Pedro do Turvo, Alvinlândia entre outros, pode - se observar como são recebidos os projetos dos pedidos de acordo com a Figura 8, e como os projetos ficam após a análise e efetuação das folgas e marcação das ferragens, Figura 9.
+
+34 Figura 8 ­ Projeto do Cliente
+Fonte: Distribuidora de Vidros (2016).
+
+35 Figura 9 ­ Projeto após Análise
+Fonte: Distribuidora de Vidros (2016).
+3.2 Entrevista com os clientes para elaboração do questionário
+Após a definição do produto piloto foram realizadas entrevistas com os clientes para o levantamento das principais características negativas em relação a empresa e seus produtos demonstrado na tabela 1 - Características, onde os mesmos foram abordados individualmente, via e-mail e pelo aplicativo WhatsApp.
+
+36
+Tabela 1 - Características
+CARACTERÍSTICAS Falta de opções de Vidros Especiais à pronta entrega (Ex. Laminado, Serigrafados) Alumínio com Risco Alumínio Amassado Vidros comuns e especiais Caros Ferragens e Acessórios Caros Acabamento Bisotê Caro Vidro Riscado Vidro Empenado Vidro Fora de Medida Vidro Fora de Esquadro Pedidos incompletos devido à quebra Grande quantidade de Papelões (Utilizado para a proteção da peça) Cola dos papelões de difícil remoção
+Fonte: O autor (2016).
+Após a coleta das características dos clientes, os dados coletados foram analisados e comparados um a um, com foco no produto piloto, deste modo foi elaborado um questionário com as principais necessidades dos clientes (Tabela 2).
+
+37 Tabela 2 ­ Principais Características dos Clientes
+Fonte: O autor (2016). Como pode-se observar na imagem da tabela 2, no topo da tabela estão especificadas as notas de importância e as notas de avaliação. Abaixo no lado esquerdo estão as principais características coletadas. Na coluna clientes, os clientes entrevistados devem dar suas notas de importância para cada característica de acordo com suas prioridades. Nas colunas, Empresa / Concorrente I / Concorrente II, os clientes devem dar suas notas de avaliação para distribuidora de vidros e os outros dois concorrentes.
+
+38
+4 RESULTADOS
+O questionário elaborado será aplicado por meio de entrevistas com os clientes, tendo como objetivo realizar a comparação da distribuidora de vidros com os seus principais concorrentes identificando seus pontos positivos e negativos.
+4.1 Entrevista com os clientes para aplicação do questionário
+Definido o questionário os clientes foram abordados individualmente para a realização da entrevista. A entrevista foi executada da seguinte maneira, após o consentimento do cliente foi explicado o motivo, objetivo da entrevista e a explicação da tabela 2 ­ Principais Características dos Clientes, onde durante a entrevista o entrevistador apontou cada item, coletando as notas dos clientes.
+Após preenchimento da tabela 2 ­ Principais Características dos Clientes, calculou-se a média de cada característica em relação à Importância (Clientes), Empresa e Concorrentes.
+Através das médias calculadas, foi calculado o GAP que compara a empresa em análise com o melhor concorrente, demonstrando a posição do mesmo perante o seu melhor concorrente.
+Cálculo do GAP: GAP = média da empresa ­ média do melhor concorrente
+Onde:  GAP Negativo - Vermelho (Empresa está perdendo)  GAP Positivo ­ Verde (Empresa está ganhando)
+A tabela final apresentou os seguintes resultados demonstrados na tabela 3 ­ Principais Características dos Clientes ­ Final.
+
+39 Tabela 3 ­ Principais Características dos Clientes ­ Final
+Fonte: O autor (2016).
+4.2 Voz do Cliente x Voz do Processo
+Com a análise da tabela 3 ­ Principais Características do Clientes ­ Final é possível identificar em quais características a distribuidora de vidros apresenta ­ se em desvantagem em relação ao seu melhor concorrente.
+As características em que a empresa apresentou desvantagens foram:  Opções de Vidros especiais à pronta entrega;  Entrega dos pedidos sem peças faltantes;  Embalagem correta para armazenamento e manuseio das peças;
+Algumas características da empresa empataram com o melhor concorrente, sendo:  Acabamento bisotê;  Vidro sem empenamento;  Quantidade de papelões (utilizado para proteção das peças);
+
+40
+Além do GAP demonstrar quais as características que a distribuidora de vidros apresenta desvantagens, aponta também suas características positivas, sendo de extrema importância manter estas vantagens positivas e buscar melhorias das características negativas para que assim a mesma possa se sobressair aos seus principais concorrentes, atrair maior número de clientes, tendo como objetivo o desenvolvimento da empresa.
+4.3 Elaboração de Planos de Ação para a Empresa
+Em um período de dois anos a distribuidora de vidros vem apresentando uma baixa na quantidade de clientes e consequentemente na quantidade de pedidos, o gráfico 1 ­ Clientes x Pedidos por Ano, apresenta esta variação. A empresa trabalha com lotes para a fabricação das peças, o prazo limite para os clientes efetuarem seus pedidos é toda terça-feira às 12hr, com entrega prevista de sexta-feira à segunda-feira. Portanto os pedidos efetuados após a data limite são encaixados para o próximo lote, devido a esta programação no mês são fabricados quatro lotes, desta forma é possível identificar quais os principais clientes, sendo classificados em ordem crescente de acordo com a quantidade de pedidos realizados no ano.
+Sendo:  Cliente D ­ de 01 à 11 pedidos no ano  Cliente C ­ de 12 à 23 pedidos no ano  Cliente B ­ de 24 à 47 pedidos no ano  Cliente A ­ de 48 pedidos acima
+Os clientes D e C, são clientes que realizam em média dois pedidos no ano, os clientes B e A realizam acima de dois pedidos por ano, para que a empresa gere lucros é necessário manter os clientes B e A e buscar formas de elevar os clientes D e C para os grupos B e A.
+
+41
+
+Gráfico 1 ­ Clientes x Pedidos por Ano
+
+N° CLIENTES
+
+CLIENTES X PEDIDOS POR ANO
+
+90
+
+80
+
+70
+
+60 50 62
+
+40
+
+30
+
+20
+
+24
+
+10
+
+18 17
+
+0
+
+2014
+
+79 62
+
+15 14 12
+2015 ANO
+
+8 15 8 2016
+
+Clientes D (01 à 11 Pedidos) Clientes B (24 à 47 Pedidos)
+
+Clientes C (12 à 23 Pedidos) Clientes A (48 Pedidos - Acima)
+
+Fonte: O autor (2016).
+No gráfico 1 o ano de 2015 em comparação ao ano de 2014 apresentou baixa nos clientes C, B e A e uma aumento nos clientes D.
+O ano de 2016 em comparação com 2015 houve uma baixa nos clientes D, C e A e uma pequena alta no cliente B.
+As categorias dos clientes B e clientes A são consideradas mais importantes para a empresa, pois são clientes que realizam pedidos durante todo o ano gerando lucro para a empresa e a mantendo no mercado.
+De acordo com as informações coletadas através do resultados dos questionários é possível identificar em relação ao produto piloto quais os pontos em que a distribuidora de vidros necessita de melhorias para que assim possa aumentar a quantidade de clientes nas categorias B e A.
+A seguir serão apresentados os planos de melhorias para os requisitos que apresentarão desvantagens e empataram com o melhor concorrente
+
+ Opções de vidros especiais à pronta entrega ­ vidros especiais são considerados vidros laminado, serigrafados, acidato, canelado, mini boreal entre outros. O vidro laminado é bastante utilizado em sacadas, corrimão, fachadas, onde o mesmo é exigido como norma do bombeiro por ser mais seguro do que o vidro
+
+42
+comum, o restante dos vidros citados são utilizados como decoração, para melhor compreensão segue a figura 10 ­ Vidros Especiais.
+Figura 10 ­ Vidros Especiais
+Fonte: O autor (2016). Atualmente a distribuidora de vidros fornece este tipo de vidro apenas sobre encomenda, onde o fornecedor realiza o processo de fabricação e a entrega das peças acabadas, estipulando um prazo de quinze à vinte dias úteis para a entrega do pedido na empresa, em casos que ocorrem divergências no pedido o fornecedor não atende de imediato demorando em média cinco dias úteis para a correção. Devido à esta situação os clientes não ficam totalmente satisfeitos pois o prazo para a entrega é considerado longo. Para a resolução deste requisito a empresa pode optar por adquirir um estoque mínimo de chaparia dos vidros especiais realizando seu processo de produção padrão, assim as peças seriam entregues no prazo máximo de sete dias. Outra opção seria entrar em acordo com o atual fornecedor especificando suas exigências priorizando o prazo de entrega, ou realizar o levantamento de novos fornecedores que atenda às necessidades da distribuidora de vidros.
+
+43
+ Entrega dos pedidos sem peças faltantes ­ Após a produção das peças de vidro é realizado a tempera dos mesmos, esta atividade é terceirizada, portanto as peças são transportadas para o fornecedor que realiza o processo, na maioria das vezes acontece a quebra de algumas peças no forno, neste caso o fornecedor envia o relatório de quebra para a empresa, onde as peças serão repostas somente no próximo lote, ou seja, na semana seguinte. Os clientes ficam insatisfeitos, pois os mesmo trabalham com obras, se no seu pedido acontece de faltar uma ou mais peças não é possível a finalização da obra atrasando toda a sua programação e recebimentos. Neste caso a distribuidora de vidros deve negociar com a empresa que realiza a tempera das peças, onde a reposição seja feita pela tempera e entregue junto com o restante do lote, quando a peças saem do forno é possível identificar quais foram as ocorrências, sendo assim, a tempera deve realizar seus procedimentos internos para que a peça seja fabricada e temperada no dia, pois a mesma também trabalha com a distribuição de vidros, tendo condições de fabricar as reposições.
+ Embalagem correta para armazenamento e manuseio das peças ­ para que haja maior segurança no armazenamento e manuseio das peças é adequado que as laterais sejam todas protegidas, usa-se uma espuma de polietileno expandido como demonstrado na figura 11 ­ Espuma para proteção. As peças depois de temperadas se tornam sensíveis nas pontas e laterais, qualquer erro no seu manuseio pode ocasionar a quebra da peça e risco de acidente, com esta proteção a probabilidade de ocorrências como essas seriam mínimas.
+
+44 Figura 11 ­ Espuma para proteção
+Fonte: O autor (2016). A empresa não trabalha com este tipo de proteção, o material utilizado são cantoneiras de papelão conforme ilustrado na figura 12 ­ Cantoneiras de papelão para proteção, com esta proteção ocorre mais chances de quebra da mesma.
+Figura 12 ­ Cantoneiras de papelão para proteção
+Fonte: O autor (2016).
+
+45
+Para a utilização da embalagem mais adequada para as peças fornecendo mais segurança para o cliente, é necessário realizar o levantamento de possíveis fornecedores da espuma para proteção e analisar qual se adequa melhor a distribuidora de vidros.
+ Acabamento Bisotê ­ este acabamento é feito por uma máquina biseladora que atualmente a empresa não possui, desta forma as peças são terceirizadas, seu prazo de entrega é de dez dias úteis para serem retirados no fornecedor. Entrando na mesma questão dos vidros especiais, insatisfação no prazo de entrega. Para a satisfação dos clientes é necessário a aquisição de uma máquina biseladora, onde as peças poderão ser entregues em menos de uma semana.
+ Vidros sem empenamento ­ o vidro para ser temperado passa por um forno onde é submetido a um processo de aquecimento a cerca de 650°C e resfriado com ar pressurizado em seguida, neste processo a peça se torna temperada apresentando maior rigidez e resistência térmica, no caso da quebra da peça o mesmo se estilhaça em pequenos fragmentos causando menos riscos de acidentes. A peça empena devido ao resfriamento incorreto durante o processo, o resfriamento foi acima ou abaixo do ideal, fazendo com que a peça não fique totalmente reta apresentando um ângulo de deformação. Para a solução desta característica é necessário que o fornecedor que realiza a tempera mantenha a regulagem do seu forno correta, onde seus colaboradores sejam capacitados para controlar e evitar possíveis falhas durante o processo.
+ Quantidade de papelões (utilizado para proteção das peças) ­ Conforme citado na característica embalagem correta para o manuseio das peças, a empresa utiliza cantoneiras de papelão em grande quantidade para a proteção das peças, quando as cantoneiras são retiradas a cola que contém na mesma é de difícil remoção, desagradando os clientes pois necessitam de produtos e tempo para retirar por completo a cola da peça. Uma opção para a solução deste requisito é utilizar outro tipo de proteção, como já foi citado as cantoneiras de espuma para proteção.
+
+46
+5 CONCLUSÃO
+O método QFD não foca apenas na qualidade do produto/serviço para a satisfação de seus clientes ele abrange toda a empresa, para a total satisfação é necessário oferecer bom atendimento durante e após a compra do produto, preços competitivos estando atento às novas necessidades e desejos dos mesmos.
+Este trabalho foi desenvolvido baseado no método QFD pois o produto oferecido pela empresa é simples não necessitando da utilização de todo o conceito do método. Durante o estudo de caso foi possível identificar as características positivas e negativas em relação ao produto piloto que são as peças de vidro, além de todas as propostas de melhorias definidas para a empresa solucionar as características negativas é essencial que mesma de atenção para o atendimento oferecido aos clientes e buscar ofertar preços competitivos, oferecer apenas produtos de qualidade não atrai os clientes pois o mesmos além da qualidade buscam preços acessíveis, neste trabalho não se deu enfoque nos preços ofertados pela empresa mas durante o levantamento das características se notou a insatisfação dos clientes neste requisito.
+Os resultados obtidos foram apresentados ao gerente da empresa que se mostrou bastante interessado e surpreso com a variação de clientes durante os dois últimos anos o mesmo informou que tinha o conhecimento da baixa dos clientes e demanda mas analisando os números coletados é preocupante, o mesmo ficou responsável de repassar para o proprietário da empresa os dados que lhes foram apresentados.
+
+47
+REFERÊNCIAS
+Artigo ­ QFD (Desdobramento da Função Qualidade) ­ Disponível em: <http://www.datalyzer.com.br/site/suporte/administrador/info/arquivos/info50/50.html>. Acesso em: 18 abril 2016.
+AKAO, Y., MAZUR, G. H. The Leading Edge in QFD: Past Present e Future. International Journal of Quality e Reliability Management. 2003.
+CHENG, Lin Chih; MELI\O FILHO, Leonel Del Rey de. QFD: desdobramento da função qualidade na gestão de desenvolvimento de produtos. Belo Horizonte: Edgard Blucher, 2007.
+CAUCHICK MIGUEL, P. A., CAPINETTI, L. C. R. Some Brasilian Experiences in QFD Application. Proceedings of the 5th International Symposium on Quality Function Deployment, UFMG, Belo Horizonte, Brasil. 1999.
+Estudo de caso ­ Aplicação do QFD no Desenvolvimento de Software. Disponível em: <http://www.scielo.br/pdf/prod/v10n1/v10n1a04 >. Acesso em: 29 fev. 2016.
+Estudo de caso ­ O Método QFD aplicado na Melhoria de Processo de Produção na Panificação. Disponível em: <http://www.abepro.org.br/biblioteca/TN_STO_210_247_27053.pdf > Acesso em: 01 maio 2016.
+Estudo de caso ­ Utilização do QFD no Sistema de Análise de pontos críticos de controle (APPCC) na produção de refeições. Disponível em: <http://search.proquest.com/openview/4c 24d748ddd19881dadf81bea58ec3d3/1?pq-origsite=gscholar&cbl=2034372> Acesso em: 12 maio 2016.
+GUSTAFSSON, A. & JOHNSON, M.D. - Bridging the quality satisfaction gap. Quality Management Journal, v.4, n.3, 1997.
+GHIYA, K.K., BAHILL, A.T. & CHAPMANN, w.L. - QFD: Validating robustness. Quality Engineering, v. ll, n.4, 1999.
+KEMMIS, S.; McTAGGART, R. Como planificar la investigaciónacción. Barcelona: Editorial Laerts, 1988.
+KING, R - Listening to the Voice of the Customer: Using the Quality Function Deployment System. National Productivity Review, New York, v.6, n.3, 1987.
+PEREIRA, A.C. MARCO, USP, 2004 ­ Disponível em: <http://www.marco.eng.br/qualidade/ROTEIRO-BASICO-PARA-EXERCICIO-QFD.pdf> Acesso em: 26 abril 2016.
+THIOLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez,1985.
+
+
